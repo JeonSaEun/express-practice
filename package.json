@@ -1,0 +1,22 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "Express practice :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JeonSaEun@github.com/JeonSaEun/express-practice.git"
+  },
+  "author": "jeonsaeun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeonSaEun/express-practice/issues"
+  },
+  "homepage": "https://github.com/JeonSaEun/express-practice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
